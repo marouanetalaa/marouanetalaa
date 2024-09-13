@@ -1,8 +1,8 @@
-# Marouane Talaa | Machine Learning Student at CentraleSupélec
+# Marouane Talaa | Machine Learning Student @ CentraleSupélec
 
 🎓 Engineering degree/MSc in Mathematics and Computer Science (2025)  
 📧 marouane.talaa@student-cs.fr  
-🔗 [LinkedIn](https://www.linkedin.com/in/marouane-talaa) | [Medium](https://medium.com/@marouane.talaa)
+🔗 [LinkedIn](https://www.linkedin.com/in/marouane-talaa-665b19162/)
 
 ## 🚀 About Me
 
@@ -17,12 +17,11 @@ Passionate ML student with hands-on experience in data science, deep learning, a
 
 - 3rd place in Hub IA @CentraleSupélec Kaggle competition for deepfake detection
 - Finalist in Mistral AI International Hackathon at Station F
-- Contributor to Giskard's open-source project
 
 ## 🛠 Tech Stack
 
-- **Languages:** Python, Java, Kotlin, JavaScript
-- **ML/DL:** TensorFlow, PyTorch, Scikit-learn
+- **Languages:** Python, Java
+- **ML/DL:** PyTorch, Scikit-learn
 - **Tools:** Git, Tableau, Android Studio
 
 ## 🔥 Featured Projects
@@ -32,10 +31,6 @@ Passionate ML student with hands-on experience in data science, deep learning, a
 - Speech Separation with Conv-TasNet
 - Lecture-to-Blog-Post Converter
 
-## 📊 GitHub Stats
+## 📊 GitHub Contributions
+- Giskard
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=marouane-talaa&show_icons=true&theme=radical)
-
-## 📫 Let's Connect!
-
-Feel free to reach out for collaborations or just a chat about AI and tech!
