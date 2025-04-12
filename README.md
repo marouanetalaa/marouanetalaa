@@ -6,31 +6,7 @@
 
 ## 🚀 About Me
 
-Passionate ML student with hands-on experience in data science, deep learning, and software development. Keen on leveraging AI to solve real-world problems.
+Passionate ML student.
 
-## 💼 Experience
 
-- **Data Consultant** @ Batt Advisors (2024)
-- **Embedded Systems Developer & AI Scientist** @ Orange (2023-2024)
-
-## 🏆 Achievements
-
-- 3rd place in Hub IA @CentraleSupélec Kaggle competition for deepfake detection
-- Finalist in Mistral AI International Hackathon at Station F
-
-## 🛠 Tech Stack
-
-- **Languages:** Python, Java
-- **ML/DL:** PyTorch, Scikit-learn
-- **Tools:** Git, Tableau, Android Studio
-
-## 🔥 Featured Projects
-
-- GAN for Super Resolution
-- LLM-powered Personality Test
-- Speech Separation with Conv-TasNet
-- Lecture-to-Blog-Post Converter
-
-## 📊 GitHub Contributions
-- Giskard
 
