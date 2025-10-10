@@ -1,4 +1,4 @@
-# Marouane Talaa | Machine Learning Student @ CentraleSupélec
+### Contact info
 
  
 marouane.talaa@student-cs.fr  
